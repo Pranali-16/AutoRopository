@@ -8,6 +8,8 @@ public class CreateOrgTest {
 	public void createNewOrg()
 	{
 		System.out.println("This is Create New org-commit 1");
+		
+		System.out.println("This is Create New org-commit 2");
 	}
 	
 	
