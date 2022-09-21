@@ -8,6 +8,8 @@ public class CreateBranch {
 	public void BranchTest()
 	{
 		System.out.println("Hii");
+		
+		System.out.println("Hii");
 	}
 	
 	
